@@ -31,3 +31,7 @@ Column definitions and a script that joins the files into one CSV:
 
 Source: [Citi Bike GBFS feed](https://gbfs.citibikenyc.com/gbfs/2.3/gbfs.json),
 subject to the [Citi Bike data license](https://ride.citibikenyc.com/data-sharing-policy).
+
+## Group model
+
+`model/` holds the class model script (written by hand, not by the collector). See [model/README.md](model/README.md).
